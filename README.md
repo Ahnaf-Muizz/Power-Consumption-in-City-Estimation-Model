@@ -82,3 +82,17 @@ After evaluating multiple combinations of features, the following models were se
 4.  Follow the prompts to enter the temperature, humidity, and select a zone.
 
 **Example Interaction:**
+Welcome to the Power Consumption Prediction Tool!
+Enter the temperature (°C): 25
+Enter the humidity (%): 80
+
+Select the Zone for Prediction:
+1: Zone 1
+2: Zone 2
+3: Zone 3
+Enter the zone number (1, 2, or 3): 2
+
+Predicted Power Consumption for Zone 2: 24843.86 kW
+
+Do you want to add this observation to the dataset? (yes/no): yes
+Observation added and saved to 'New_Power_Consumption_Observations.csv' successfully!
